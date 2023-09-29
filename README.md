@@ -20,3 +20,11 @@
 <a href = "mailto:joaomarcello869@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
+
+##
+<div>
+  <a href="https://app.daily.dev/JoaoWick"><img src="https://api.daily.dev/devcards/fbb142eb6f1740ac91bebc865a92a255.png?r=im2" width="400" alt="João Marcello Rodrigues's Dev Card"/></a>
+</div>
+
+
+
