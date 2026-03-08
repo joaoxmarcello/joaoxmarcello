@@ -1,7 +1,9 @@
 ### Olá, Me chamo João Marcello 👋
 
 - Desenvolvedor Front-End
-- Estudante de Análise e Desenvolvimento de Sistemas
+- Formado em Análise e Desenvolvimento de Sistemas
+- Pós graduado em Segurança e Defesa Cibernética
+- Estudante de Pós-graduação em Ciências de dados e IA
 
 <br>
   
