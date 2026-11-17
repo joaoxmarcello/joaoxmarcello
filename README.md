@@ -3,7 +3,7 @@
 - Desenvolvedor Front-End
 - Formado em Análise e Desenvolvimento de Sistemas
 - Pós graduado em Segurança e Defesa Cibernética
-- Estudante de Pós-graduação em Ciências de dados e IA
+- Pós-graduação em Ciências de dados e IA
 
 <br>
   
